@@ -1,5 +1,6 @@
 USIGameRunner
 =============
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 USIエンジン同士の連続対局をするRubyスクリプト。
 
@@ -9,7 +10,7 @@ Rubyのお勉強がてら、Linuxでコマンドラインから連続対局出�
 
 
 使い方
-----
+------
     USIGameRunner.rb engine1 engine2
 
 エンジンのパスを2つ指定するだけ。
